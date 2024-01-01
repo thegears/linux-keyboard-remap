@@ -10,3 +10,5 @@ key <AC08>	{[         k,          K,          none,          none ]}; =>     key
 k => h
 
 ```
+
+Then restart your pc.
